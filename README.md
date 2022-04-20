@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and JavaScript.
 - 🌱 I’m currently learning NodeJS and React.
 - 💞️ I’m looking to collaborate on Web Dev Projects
-- 📫 How to reach me jibraanasim@gmail.com
+- 📫 How to reach me jibraan_2020bche043@nitsri.net
 
 <!---
 jibraanasimnit/jibraanasimnit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
